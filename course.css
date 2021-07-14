@@ -101,6 +101,7 @@ display: none;
       padding: 20px 12px;
       box-sizing: border-box;
       cursor:grabbing;
+      overflow: scroll;
   }
   h3{
       text-align: center;
